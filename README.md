@@ -15,6 +15,8 @@ NI: need improve.
 | 1971| Easy | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | - | Union find | [code](Problems/1971_Find_if_Path_Exists_in_Graph.py)| - | - 
 | 67 | Easy |[Add Binary](https://leetcode.com/problems/add-binary/)| - | - | [code](Problems/67_Add_Binar.py) | - | -
 | 36 | Easy |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|2023/2/20| Binary Search |[O(log n)](Problems/36_Search_Insert_Position.py)|O(1)| -
+| 2187 | Medium |[Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|2023/03/26| Binary Search |[O(log n)](Problems/2187_Minimum_Time_to_Complete_Trips.py)| - | -
+| 2187 | Medium |[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)|2023/03/26| Binary Search, Prime |[O(n)](Problems/6355_prime-subtraction-operation.py)| - | -
 
 
 ### Learn
