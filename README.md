@@ -7,16 +7,17 @@ NI: need improve.
 
 |Number | Difficulty | Problem | Date | Category | Time Complexity | Space Complexity | Notes |
 |-------------:|-------------|-------------|-------------|-------------|-------------|-------------|------|
+| 36 | Easy |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|2023/2/20| Binary Search |[O(log n)](Problems/36_Search_Insert_Position.py)|O(1)| -
+| 64 | Medium |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)| 2023/03/27 | DP | [O(N^2)](Problems/64_Minimum_Path_Sum.py) | - | bactracking will TLE
+| 67 | Easy |[Add Binary](https://leetcode.com/problems/add-binary/)| - | - | [code](Problems/67_Add_Binar.py) | - | -
 | 268 | Easy |[Missing Number](https://leetcode.com/problems/missing-number/)|2022/12/19| - |(NI)[O(N^2)](Problems/268_Missing_Number.py),|O(N)| FollowUp: bit manipulation
 | 290 | Easy |[Word Pattern](https://leetcode.com/problems/word-pattern/)|2022/12/18| - |[O(N)](Problems/290_Word_Pattern.py),|O(N)| -
 | 841 | Medium |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|2022/12/20| BFS |[O(N)](Problems/841_Keys_and_Rooms.py),|O(N)| -
 | 989| Easy |[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| - | - | [code](Problems/989_Add_to_Array_From_of_Integer.py) | - | -
 | 1834| Medium | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | - | heap | [code](Problems/1834_Single_Threaded_CPU.py)| - | - 
-| 1971| Easy | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | - | Union find | [code](Problems/1971_Find_if_Path_Exists_in_Graph.py)| - | - 
-| 67 | Easy |[Add Binary](https://leetcode.com/problems/add-binary/)| - | - | [code](Problems/67_Add_Binar.py) | - | -
-| 36 | Easy |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|2023/2/20| Binary Search |[O(log n)](Problems/36_Search_Insert_Position.py)|O(1)| -
+| 1971| Easy | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | - | Union find | [code](Problems/1971_Find_if_Path_Exists_in_Graph.py)| - | -
 | 2187 | Medium |[Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|2023/03/26| Binary Search |[O(log n)](Problems/2187_Minimum_Time_to_Complete_Trips.py)| - | -
-| 2187 | Medium |[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)|2023/03/26| Binary Search, Prime |[O(n)](Problems/6355_prime-subtraction-operation.py)| - | -
+| 2601 | Medium |[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)|2023/03/26| Binary Search, Prime |[O(n)](Problems/6355_prime-subtraction-operation.py)| - | -
 
 
 ### Learn
