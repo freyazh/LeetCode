@@ -2,12 +2,17 @@
 
 NI: need improve.
 
+> TODO:
+>
+> 1. Combine `Time Complexity` and `Space Complexity` into `Solution (Time Complexity & Space Complexity)`
+> 2. Make each problem a folder => for multiple solution & test cases (create README for each problem if necessary)
 
 ### Track
 
 |Number | Difficulty | Problem | Date | Category | Time Complexity | Space Complexity | Notes |
 |-------------:|-------------|-------------|-------------|-------------|-------------|-------------|------|
-| 36 | Easy |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|2023/2/20| Binary Search |[O(log n)](Problems/36_Search_Insert_Position.py)|O(1)| -
+| 36 | Easy |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|2023/02/20| Binary Search |[O(log n)](Problems/36_Search_Insert_Position.py)|O(1)| -
+| 133 | Medium |[Clone Graph](https://leetcode.com/problems/clone-graph/solutions/)|2023/04/09| DFS |[O(V+E)](Problems/36_Search_Insert_Position.py)| - | -
 | 64 | Medium |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)| 2023/03/27 | DP | [O(N^2)](Problems/64_Minimum_Path_Sum.py) | - | bactracking will TLE
 | 67 | Easy |[Add Binary](https://leetcode.com/problems/add-binary/)| - | - | [code](Problems/67_Add_Binar.py) | - | -
 | 268 | Easy |[Missing Number](https://leetcode.com/problems/missing-number/)|2022/12/19| - |(NI)[O(N^2)](Problems/268_Missing_Number.py),|O(N)| FollowUp: bit manipulation
